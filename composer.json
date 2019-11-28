@@ -1,0 +1,20 @@
+{
+    "name": "zhaofenghao/city-delivery",
+    "description": "City Distribution",
+    "type": "library",
+    "require": {
+        "php": ">= 5.6.0"
+    },
+    "authors": [
+        {
+            "name": "zhaofenghao",
+            "email": "1172747567@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Delivery\\"         : "src"
+        }
+    }
+}
